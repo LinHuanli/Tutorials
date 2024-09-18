@@ -6,12 +6,14 @@ Welcome to the repository for all the tutorial slides I created during my PhD ti
 
 ## 📑 Slides List
 
-| Tutorial Title                                                                 | Date               | Venue   |
-| ------------------------------------------------------------------------------ | ------------------ | --------|
+| Tutorial Title                                                                                                           | Date               | Venue   |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------|
 | Automated Design of State Transition Rules in Ant Colony Optimization by Genetic Programming: A Comprehensive Investigation | June 21st, 2024    | ECRG    |
-| Accelerate Python for a Genetic Programming Project                            | June 5th, 2024     | ECCO    |
-| Generative AI                                                                  | March 13th, 2024   | ECCO    |
-| An Introduction to ACO                                                         | January 26th, 2024 | ECRG    |
+| Accelerate Python for a Genetic Programming Project                                                                      | June 5th, 2024     | ECCO    |
+| Generative AI                                                                                                            | March 13th, 2024   | ECCO    |
+| An Introduction to ACO                                                                                                   | January 26th, 2024 | ECRG    |
+| Efficient Extended Ant Colony Optimization for Capacitated Electric Vehicle Routing                                      | December 2022      | IEEE SSCI 2022 |
+| An Efficient Ant Colony System for Multi-Robot Task Allocation with Large-scale Cooperative Tasks and Precedence Constraints | December 2021      | IEEE SSCI 2021 |
 
 ---
 
