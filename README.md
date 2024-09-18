@@ -1,6 +1,6 @@
 # 📊 Tutorial Slides Repository
 
-Welcome to the repository for all the tutorial slides I created during my time at **Victoria University of Wellington (VUW)**. This repository contains **PDF versions** of the slides. If you require the editable `.pptx` files, feel free to reach out to me directly.
+Welcome to the repository for all the tutorial slides I created during my PhD time at **Victoria University of Wellington (VUW)** and Undergraduate time at **Nankai University**. This repository contains **PDF versions** of the slides. If you require the editable `.pptx` files, feel free to reach out to me directly.
 
 > **Note**: These slides are provided for **academic purposes only**.
 
