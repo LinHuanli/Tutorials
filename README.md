@@ -7,8 +7,8 @@ Welcome to the repository for all the tutorial slides I created during my PhD ti
 ## 📑 Slides List
 
 | Tutorial Title                                                                                                           | Date               | Venue   |
-| Machine Learning and Generative AI for Large-Scale Traveling Salesman Problems                                           | Dec 18th, 2024    | PhD Proposal |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------|
+| Machine Learning and Generative AI for Large-Scale Traveling Salesman Problems                                           | Dec 18th, 2024    | PhD Proposal |
 | Automated Design of State Transition Rules in Ant Colony Optimization by Genetic Programming: A Comprehensive Investigation | June 21st, 2024    | ECRG    |
 | Accelerate Python for a Genetic Programming Project                                                                      | June 5th, 2024     | ECCO    |
 | Generative AI                                                                                                            | March 13th, 2024   | ECCO    |
