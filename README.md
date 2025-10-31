@@ -9,7 +9,7 @@ Welcome to the repository for all the tutorial slides I created during my PhD ti
 
 | Tutorial Title | Date | Venue |
 |---|---|---|
-| Agentic Coding| October 30th, 2025 | 2025 IEEE NZ Central Section Postgraduate Workshop ｜
+| Agentic Coding| October 30th, 2025 | 2025 IEEE NZ Central Section Postgraduate Workshop|
 | Coding | August 22nd, 2025 | ECRG |
 | Machine Learning and Generative AI for Large-Scale Traveling Salesman Problems | December 18th, 2024 | PhD Proposal |
 | Automated Design of State Transition Rules in Ant Colony Optimization by Genetic Programming: A Comprehensive Investigation | June 21st, 2024 | ECRG |
